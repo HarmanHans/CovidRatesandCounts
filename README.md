@@ -2,10 +2,10 @@
 Lab 03
 In early 2020, COVID-19 hit the US, leading to a very turbulent year and consequences that still continue to take effect today. [Map 1](map1.html) previews the COVID rates of each county in the contiguous US. This gives a more balanced view into how each part of the US was effected, as COVID can be an entirely different animal in areas that are densely populated compared to more rural areas. 
 
-[](img/map1pic.png?raw=true)
+![Map 1](img/map1pic.png?raw=true)
 Then, [Map 2](map2.html) looks at the counts of COVID in different parts of the contiguous US. This gives a pure view of where cases were most common, irregardless of population density. 
 
-[](img/map2pic.png?raw=true)
+![Map 2](img/map2pic.png?raw=true)
 
 Data Sources include the New York Times for counts data, ACS data for population counts. Shapefiles used were from the US census bureau. 
 
